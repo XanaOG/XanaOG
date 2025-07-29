@@ -25,7 +25,7 @@ Software Engineer | Tool Builder | Bug Pusher 🐛
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-📱%20GSMPanel-000)](https://gsmpanel.com)
+[![](https://img.shields.io/badge/-📱%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
 [![](https://img.shields.io/badge/-🌐%20TailsHost-000)](https://tailshost.com)
 
 
