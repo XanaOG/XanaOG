@@ -28,9 +28,6 @@ Software Engineer | Tool Builder | Bug Pusher 🐛
 [![](https://img.shields.io/badge/-📱%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
 [![](https://img.shields.io/badge/-🌐%20TailsHost-000)](https://tailshost.com)
 
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=XanaOG&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanaOG&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
 ---
 
 **Current Status:** Actively pushing bugs into production 🐛
