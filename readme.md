@@ -1,6 +1,6 @@
 # Hi there, I'm Xana 👋
 
-Software Engineer | Tool Builder | Bug Pusher 🐛
+Software Engineer
 
 ---
 
@@ -27,7 +27,3 @@ Software Engineer | Tool Builder | Bug Pusher 🐛
 
 [![](https://img.shields.io/badge/-📱%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
 [![](https://img.shields.io/badge/-🌐%20TailsHost-000)](https://tailshost.com)
-
----
-
-**Current Status:** Actively pushing bugs into production 🐛
