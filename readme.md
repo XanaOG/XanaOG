@@ -1,6 +1,6 @@
 # Hi there, I'm Xana
 
-Software Engineer
+Software Engineer\n
 Open-Source contributor
 
 ---
