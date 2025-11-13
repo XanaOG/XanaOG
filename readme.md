@@ -21,6 +21,7 @@ Freelance FSD
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-### Full Stack Projects
+
+### Current Public Projects
 
 [![](https://img.shields.io/badge/-🌐%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
