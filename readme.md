@@ -1,6 +1,7 @@
-# Hi there, I'm Xana 👋
+# Hi there, I'm Xana
 
 Software Engineer
+Open-Source contributor
 
 ---
 
@@ -21,9 +22,6 @@ Software Engineer
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-📱%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
-[![](https://img.shields.io/badge/-🌐%20TailsHost-000)](https://tailshost.com)
+[![](https://img.shields.io/badge/-🌐%20GSMPanel-000)](https://discord.gg/NprC4gjGbv)
