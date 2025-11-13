@@ -1,7 +1,6 @@
 # Hi there, I'm Xana
 
-Software Engineer\n
-Open-Source contributor
+Freelance FSD
 
 ---
 
